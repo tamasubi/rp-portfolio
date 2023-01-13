@@ -1,6 +1,4 @@
 # projects
-
-
 git clone https://github.com/tamasubi/rp-portfolio.git
 python3 -m venv myvenv
 source venv/bin/activate
